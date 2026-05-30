@@ -2,26 +2,20 @@
 
 **English** | [**中文**](./README.md)
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:0d1117&fontColor=58a6ff&height=220&section=header&text=Muerzy&fontSize=52&fontAlignY=45&desc=Full-Stack%20%C2%B7%20Game%20Dev%20%C2%B7%20Web3%20%C2%B7%20AI%20Educator&descSize=20&descAlignY=62&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:0d1117&fontColor=58a6ff&height=200&section=header&text=Muerzy&fontSize=48&fontAlignY=45&desc=Full-Stack%20%C2%B7%20Game%20Dev%20%C2%B7%20Web3%20%C2%B7%20AI&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=120&lines=%F0%9F%8E%93+CS+Professor+%40+Double+First-Class+University;%F0%9F%A7%A0+AI+App+Dev+Studio+Lead+%C2%B7+LLM+Researcher;%F0%9F%9A%80+Indie+Developer+%C2%B7+Building+Passive+Income;%F0%9F%8C%8D+Dreaming+of+Traveling+the+World+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%93+CS+Professor+@+University;%F0%9F%A7%A0+AI+App+Dev+%C2%B7+LLM+Researcher;%F0%9F%9A%80+Indie+Developer+%C2%B7+Building+Passive+Income;%F0%9F%8C%8D+Dreaming+of+Traveling+the+World+with+Code" alt="Typing SVG" />
 </a>
 
 <br/>
 <br/>
 
-<!-- Social Badges -->
 [![Website](https://img.shields.io/badge/Website-muerzy.com-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://muerzy.com)
 [![Email](https://img.shields.io/badge/Email-codeayzy@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:codeayzy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Muerzy-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/codeayzy)
 
-<br/>
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=codeayzy&style=for-the-badge&color=blueviolet" alt="Visitor Counter" />
+<img src="https://komarev.com/ghpvc/?username=codeayzy&style=flat-square&color=blueviolet" alt="visitors" />
 
 </div>
 
@@ -29,8 +23,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CS Professor at a **Double First-Class** University in China
-- 🧠 Leading an **AI Application Development Studio**, teaching undergrads & grads AI app development
+- 🎓 CS Professor at a university in China, focused on AI & software engineering education
 - 💻 Full-Stack / Game / Web3 Developer building **indie products**
 - 🤖 Passionate about **LLM applications** and cutting-edge AI technology
 - 💰 Working toward **passive income** to travel the world 🌍
@@ -108,13 +101,6 @@
   <img src="https://streak-stats.demolab.com?user=codeayzy&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currLabel=58A6FF" width="52%" alt="GitHub Streak" />
 </div>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeayzy/codeayzy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeayzy/codeayzy/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/codeayzy/codeayzy/output/github-snake-dark.svg" width="100%" />
-</picture>
-
 ---
 
 ## 📌 Featured Projects
@@ -182,15 +168,9 @@ Never Stop
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%" />
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&fontColor=58a6ff&height=120&section=footer" width="100%" />
 
   ### 💬 *"Building in public, dreaming in code."*
 
-  <sub>⭐ From [Muerzy](https://github.com/codeayzy) with ❤️ — Powered by passion & caffeine ☕</sub>
+  <sub>⭐ From [Muerzy](https://github.com/codeayzy) with ❤️</sub>
 </div>

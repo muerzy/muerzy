@@ -2,26 +2,20 @@
 
 [**English**](./README_EN.md) | **中文**
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:0d1117&fontColor=58a6ff&height=220&section=header&text=Muerzy&fontSize=52&fontAlignY=45&desc=%E5%85%A8%E6%A0%88%20%C2%B7%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%20%C2%B7%20Web3%20%C2%B7%20AI%20%E6%95%99%E8%82%B2%E8%80%85&descSize=20&descAlignY=62&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:0d1117&fontColor=58a6ff&height=200&section=header&text=Muerzy&fontSize=48&fontAlignY=45&desc=%E5%85%A8%E6%A0%88%20%C2%B7%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%20%C2%B7%20Web3%20%C2%B7%20AI&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=120&lines=%F0%9F%8E%93+%E5%8F%8C%E4%B8%80%E6%B5%81%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E5%B8%88;%F0%9F%A7%A0+AI+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%B4%9F%E8%B4%A3%E4%BA%BA;%F0%9F%9A%80+%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+%E6%89%93%E9%80%A0%E7%9D%A1%E5%90%8E%E6%94%B6%E5%85%A5;%F0%9F%8C%8D+%E7%9B%AE%E6%A0%87%E6%98%AF%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%93+%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E5%B8%88;%F0%9F%A7%A0+AI+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;%F0%9F%9A%80+%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+%E6%89%93%E9%80%A0%E7%9D%A1%E5%90%8E%E6%94%B6%E5%85%A5;%F0%9F%8C%8D+%E7%9B%AE%E6%A0%87%E6%98%AF%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C" alt="Typing SVG" />
 </a>
 
 <br/>
 <br/>
 
-<!-- Social Badges -->
 [![Website](https://img.shields.io/badge/Website-muerzy.com-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://muerzy.com)
 [![Email](https://img.shields.io/badge/Email-codeayzy@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:codeayzy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Muerzy-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/codeayzy)
 
-<br/>
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=codeayzy&style=for-the-badge&color=blueviolet" alt="Visitor Counter" />
+<img src="https://komarev.com/ghpvc/?username=codeayzy&style=flat-square&color=blueviolet" alt="visitors" />
 
 </div>
 
@@ -29,14 +23,13 @@
 
 ## 👨‍💻 关于我
 
-- 🎓 国内**双一流**高校计算机专业教师
-- 🧠 **AI 大模型应用开发工作室**负责人，教授本科与研究生 AI 应用开发
-- 💻 全栈 / 游戏 / Web3 开发者，正在打造**独立产品**
-- 🤖 热衷于**大模型应用**开发和前沿 AI 技术研究
-- 💰 追求**睡后收入**，目标是环游世界 🌍
+- 🎓 高校计算机教师，专注 AI 与软件工程教育
+- 💻 全栈 / 游戏 / Web3 开发者，正在打造独立产品
+- 🤖 热衷于大模型应用开发和前沿 AI 技术研究
+- 💰 追求睡后收入，目标是环游世界 🌍
 - 🏋️ 健身达人：撸铁、篮球、跑步、街头健身
 - 🎮 3A 游戏爱好者 & 自媒体创作者，擅长视频剪辑
-- 📚 持续学习最新科技技术 — 永不停歇
+- 📚 持续学习最新技术 — 永不停歇
 
 ---
 
@@ -108,13 +101,6 @@
   <img src="https://streak-stats.demolab.com?user=codeayzy&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currLabel=58A6FF" width="52%" alt="GitHub Streak" />
 </div>
 
-<!-- Snake Animation / 贡献蛇 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeayzy/codeayzy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeayzy/codeayzy/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/codeayzy/codeayzy/output/github-snake-dark.svg" width="100%" />
-</picture>
-
 ---
 
 ## 📌 开源项目
@@ -182,15 +168,9 @@ AI / Web3 / Rust
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%" />
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&fontColor=58a6ff&height=120&section=footer" width="100%" />
 
   ### 💬 *"公开构建，用代码编织梦想。"*
 
-  <sub>⭐ 来自 [Muerzy](https://github.com/codeayzy) ❤️ — Powered by passion & caffeine ☕</sub>
+  <sub>⭐ 来自 [Muerzy](https://github.com/codeayzy) ❤️</sub>
 </div>
