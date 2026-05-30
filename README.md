@@ -2,10 +2,10 @@
 
 [**English**](./README_EN.md) | **中文**
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:0d1117&fontColor=58a6ff&height=200&section=header&text=Muerzy&fontSize=48&fontAlignY=45&desc=%E5%85%A8%E6%A0%88%20%C2%B7%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%20%C2%B7%20Web3%20%C2%B7%20AI&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0d1117&height=200&section=header&text=Muerzy&fontSize=48&fontAlignY=45&fontColor=f0c674&desc=%E5%85%A8%E6%A0%88%20%C2%B7%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%20%C2%B7%20Web3%20%C2%B7%20AI&descSize=18&descAlignY=62" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%93+%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E5%B8%88;%F0%9F%A7%A0+AI+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;%F0%9F%9A%80+%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+%E6%89%93%E9%80%A0%E7%9D%A1%E5%90%8E%E6%94%B6%E5%85%A5;%F0%9F%8C%8D+%E7%9B%AE%E6%A0%87%E6%98%AF%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F0C674&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%93+%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E5%B8%88;%F0%9F%A7%A0+AI+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;%F0%9F%9A%80+%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+%E6%89%93%E9%80%A0%E7%9D%A1%E5%90%8E%E6%94%B6%E5%85%A5;%F0%9F%8C%8D+%E7%9B%AE%E6%A0%87%E6%98%AF%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -93,12 +93,12 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=codeayzy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&ring_color=1a1a2e" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codeayzy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=15" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=codeayzy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c674&icon_color=f0c674&text_color=c9d1d9&count_private=true&ring_color=1a1a2e" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codeayzy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c674&text_color=c9d1d9&langs_count=15" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codeayzy&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currLabel=58A6FF" width="52%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=codeayzy&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=F0C674&fire=F0C674&currLabel=F0C674" width="52%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -107,15 +107,15 @@
 
 <div align="center">
   <a href="https://github.com/codeayzy/sbit">
-    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=codeayzy&repo=sbit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=codeayzy&repo=sbit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c674&icon_color=f0c674&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/codeayzy/plico">
-    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=codeayzy&repo=plico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=codeayzy&repo=plico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c674&icon_color=f0c674&text_color=c9d1d9" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/codeayzy/ztools-plugin-plain-text">
-    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=codeayzy&repo=ztools-plugin-plain-text&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=codeayzy&repo=ztools-plugin-plain-text&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c674&icon_color=f0c674&text_color=c9d1d9" />
   </a>
 </div>
 
@@ -168,7 +168,7 @@ AI / Web3 / Rust
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&fontColor=58a6ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&fontColor=f0c674&height=120&section=footer" width="100%" />
 
   ### 💬 *"公开构建，用代码编织梦想。"*
 
