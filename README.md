@@ -105,15 +105,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeayzy&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currLabel=58A6FF" width="52%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeayzy&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeayzy&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=0d1117&area=true&area_color=1a1a2e" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=codeayzy&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currLabel=58A6FF" width="52%" alt="GitHub Streak" />
 </div>
 
 <!-- Snake Animation / 贡献蛇 -->
