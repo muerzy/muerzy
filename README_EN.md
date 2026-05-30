@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0d1117&height=120&section=header&text=Muerzy&fontSize=48&fontAlignY=50&fontColor=f0c674" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F0C674&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%8E%93+CS+Professor+@+University;%F0%9F%A7%A0+AI+App+Dev+%C2%B7+LLM+Researcher;%F0%9F%9A%80+Indie+Developer+%C2%B7+Building+Passive+Income;%F0%9F%8C%8D+Dreaming+of+Traveling+the+World+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F0C674&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%8E%93+CS+Professor+@+University;%F0%9F%A7%A0+AI+App+Dev+%C2%B7+LLM+Researcher;%F0%9F%9A%80+Indie+Developer+%C2%B7+Building+Passive+Income" alt="Typing SVG" />
 </a>
 
 <br/>
