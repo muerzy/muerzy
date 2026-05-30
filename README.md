@@ -100,8 +100,8 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeayzy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&ring_color=1a1a2e" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeayzy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=15" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=codeayzy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&ring_color=1a1a2e" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codeayzy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=15" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -129,15 +129,15 @@
 
 <div align="center">
   <a href="https://github.com/codeayzy/sbit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeayzy&repo=sbit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=codeayzy&repo=sbit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/codeayzy/plico">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeayzy&repo=plico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=codeayzy&repo=plico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/codeayzy/ztools-plugin-plain-text">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeayzy&repo=ztools-plugin-plain-text&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=codeayzy&repo=ztools-plugin-plain-text&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
 </div>
 
