@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0d1117&height=120&section=header&text=Muerzy&fontSize=48&fontAlignY=50&fontColor=f0c674" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F0C674&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%93+%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E5%B8%88;%F0%9F%A7%A0+AI+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;%F0%9F%9A%80+%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+%E6%89%93%E9%80%A0%E7%9D%A1%E5%90%8E%E6%94%B6%E5%85%A5;%F0%9F%8C%8D+%E7%9B%AE%E6%A0%87%E6%98%AF%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F0C674&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%8E%93+%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E5%B8%88;%F0%9F%A7%A0+AI+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;%F0%9F%9A%80+%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+%E6%89%93%E9%80%A0%E7%9D%A1%E5%90%8E%E6%94%B6%E5%85%A5;%F0%9F%8C%8D+%E7%9B%AE%E6%A0%87%E6%98%AF%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C" alt="Typing SVG" />
 </a>
 
 <br/>
