@@ -22,11 +22,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CS Professor at a university in China, focused on AI & software engineering education
-- 💻 Full-Stack / Game / Web3 Developer building **indie products**
-- 🤖 Passionate about **LLM applications** and cutting-edge AI technology
+- 🎓 CS Professor at a university in China, focused on AI & app building
+- 💻 Full-Stack / Game / Web3 / AI Developer, continuously building **indie products**
+- 🤖 Passionate about **applications across industries** and cutting-edge AI technology
 - 💡 Actively shipping **open-source projects** — depth over noise
-- 💰 Working toward **passive income** to travel the world 🌍
+- 🏋️ Fitness enthusiast: lifting, basketball, running, calisthenics
+- 🎮 AAA gamer & content creator
+- 📚 Always learning — curiosity is a lifelong joy
+- 💰 Goal: travel the world 🌍
 
 ---
 
@@ -34,20 +37,7 @@
 
 <div align="center">
 
-### OS
-<img src="https://skillicons.dev/icons?i=windows,apple,linux" />
-
-### Game & 3D
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
-
-### Dev Tools
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,bun,vite,fastapi,django,flask,spring" />
-
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,java,go,python,js,ts,cs,scala,mysql,dart,lua,kotlin,bash" />
+<img src="https://skillicons.dev/icons?i=windows,apple,linux,unity,unreal,blender,vscode,pycharm,idea,webstorm,react,vue,nextjs,nodejs,bun,vite,fastapi,django,flask,spring,c,cpp,rust,java,go,python,js,ts,cs,scala,mysql,dart,lua,kotlin,bash" />
 
 </div>
 
@@ -103,14 +93,15 @@ Open World RPG
 <td align="center" width="25%">
 
 🎬 **Content**
-Video Editing
-Tech Blogging
+Fitness Vlogs
+Tech Sharing
+Gaming
 
 </td>
 <td align="center" width="25%">
 
 📚 **Learning**
-AI / Web3 / Rust
+AI / Web3 / Game / APP
 Never Stop
 
 </td>
@@ -120,7 +111,6 @@ Never Stop
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&fontColor=f0c674&height=120&section=footer" width="100%" />
 
   ### 💬 *"Weaving the world with code."*
 

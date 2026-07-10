@@ -22,11 +22,14 @@
 
 ## 👨‍💻 关于我
 
-- 🎓 高校计算机教师，专注 AI 与软件工程教育
-- 💻 全栈 / 游戏 / Web3 开发者，正在打造独立产品
-- 🤖 热衷于大模型应用开发与前沿 AI 技术研究
+- 🎓 高校计算机教师，专注 AI 与 APP 构建
+- 💻 全栈 / 游戏 / Web3 开发者 / AI，持续打造独立产品
+- 🤖 热衷于各行业应用开发与前沿 AI 技术研究
 - 💡 持续输出开源项目，追求技术深度与产品落地
-- 💰 目标：用代码创造睡后收入，环游世界 🌍
+- 🏋️ 健身达人：撸铁、篮球、跑步、街头健身
+- 🎮 3A 游戏爱好者 & 自媒体创作者
+- 📚 持续学习最新知识 — 求知欲是长久的快乐
+- 💰 目标：环游世界 🌍
 
 ---
 
@@ -34,20 +37,7 @@
 
 <div align="center">
 
-### 操作系统
-<img src="https://skillicons.dev/icons?i=windows,apple,linux" />
-
-### 游戏与 3D
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
-
-### 开发工具
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm" />
-
-### 框架与库
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,bun,vite,fastapi,django,flask,spring" />
-
-### 编程语言
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,java,go,python,js,ts,cs,scala,mysql,dart,lua,kotlin,bash" />
+<img src="https://skillicons.dev/icons?i=windows,apple,linux,unity,unreal,blender,vscode,pycharm,idea,webstorm,react,vue,nextjs,nodejs,bun,vite,fastapi,django,flask,spring,c,cpp,rust,java,go,python,js,ts,cs,scala,mysql,dart,lua,kotlin,bash" />
 
 </div>
 
@@ -103,14 +93,15 @@
 <td align="center" width="25%">
 
 🎬 **自媒体**
-视频剪辑
+健身日常
 技术分享
+游戏娱乐
 
 </td>
 <td align="center" width="25%">
 
 📚 **学习**
-AI / Web3 / Rust
+AI / Web3 / Game / APP
 永不停歇
 
 </td>
@@ -120,7 +111,6 @@ AI / Web3 / Rust
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&fontColor=f0c674&height=120&section=footer" width="100%" />
 
   ### 💬 *"用代码编织世界。"*
 
